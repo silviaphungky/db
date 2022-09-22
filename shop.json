@@ -1,0 +1,34 @@
+{
+  "shops": [
+    {
+      "id": 1,
+      "shop_name": "Toko Laskar Pelangi Shopee 1",
+      "marketplace": "shopee"
+    },
+    {
+      "id": 2,
+      "shop_name": "Toko Laskar Pelangi Shopee 2",
+      "marketplace": "shopee"
+    },
+    {
+      "id": 3,
+      "shop_name": "Toko Laskar Pelangi Tokopedia 1",
+      "marketplace": "tokopedia"
+    },
+    {
+      "id": 4,
+      "shop_name": "Toko Laskar Pelangi Tokopedia 2",
+      "marketplace": "tokopedia"
+    },
+    {
+      "id": 5,
+      "shop_name": "Toko Laskar Pelangi Lazada 1",
+      "marketplace": "lazada"
+    },
+    {
+      "id": 6,
+      "shop_name": "Toko Laskar Pelangi Lazada 2",
+      "marketplace": "lazada"
+    }
+  ]
+}
