@@ -3,32 +3,38 @@
     {
       "id": 1,
       "shop_name": "Toko Laskar Pelangi Shopee 1",
-      "marketplace": "shopee"
+      "marketplace": "shopee",
+      "chat_url": "https://seller.shopee.co.id/webchat/conversations"
     },
     {
       "id": 2,
       "shop_name": "Toko Laskar Pelangi Shopee 2",
-      "marketplace": "shopee"
+      "marketplace": "shopee",
+      "chat_url": "https://seller.shopee.co.id/webchat/conversations"
     },
     {
       "id": 3,
       "shop_name": "Toko Laskar Pelangi Tokopedia 1",
-      "marketplace": "tokopedia"
+      "marketplace": "tokopedia",
+      "chat_url": "https://seller.tokopedia.com/chat"
     },
     {
       "id": 4,
       "shop_name": "Toko Laskar Pelangi Tokopedia 2",
-      "marketplace": "tokopedia"
+      "marketplace": "tokopedia",
+      "chat_url": "https://seller.tokopedia.com/chat"
     },
     {
       "id": 5,
       "shop_name": "Toko Laskar Pelangi Lazada 1",
-      "marketplace": "lazada"
+      "marketplace": "lazada",
+      "chat_url": "https://sellercenter.lazada.co.id/apps/im/chat"
     },
     {
       "id": 6,
       "shop_name": "Toko Laskar Pelangi Lazada 2",
-      "marketplace": "lazada"
+      "marketplace": "lazada",
+      "chat_url": "https://sellercenter.lazada.co.id/apps/im/chat"
     }
   ]
 }
